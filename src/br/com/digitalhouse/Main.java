@@ -16,7 +16,6 @@ public class Main {
         System.out.println("soma de A + B = " + (umNumeroA + umNumeroB));
         System.out.println("subtração de A - B = " + (umNumeroA - umNumeroB));
         Scanner sc = new Scanner(System.in);
-        Scanner sc2 = new Scanner(System.in);
         System.out.println("Digite um número: ");
         umNumeroA = sc.nextInt();
         System.out.println("Recebi: " + umNumeroA);
